@@ -24,6 +24,13 @@ For The Most Recent Changes, Please Check The Changelog.👇
 
 ## 👉[Changelog](https://github.com/iamLiquidX/MirrorX/wiki/Changelog)
 
+## 👉How to deploy in Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bangagung/Xenovia-MirrorX)
+
+Hit the deploy to heroku button and follow the further instructions in the screen:
+
+**NB: Usage of Aria2 may leads to the suspension of your heroku account so deploy at your own risk.**
 
 
 # Credits 👇
