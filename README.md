@@ -1,12 +1,8 @@
- <p align="center">
-  <img width="200" src="https://media4.giphy.com/media/1jWAx072bAJwMebcl7/200w.gif?cid=82a1493bnsutnhqk7gyyjf1k0m8rbad3qp6t6gan3zf9vr6b&rid=200w.gif" alt="Material Bread logo">
-</p> 
+[![Xenovia](https://telegra.ph/file/4db6d0bb4300cd13ff284.jpg)](https://t.me/bangagung13)
 
+# Xenovia-MirrorX
+This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
 
-<p align="center">
-
-# This Is A Telegram Bot Written In Python For Mirroring Files On The Internet To Our Beloved Google Drive.
-</p>
 
 Here Are Some Things To Get You Started.👇
 
