@@ -1,6 +1,8 @@
 requests
+aiohttp
 appdirs
 aria2p
+heroku3
 progress
 psutil
 python-telegram-bot
